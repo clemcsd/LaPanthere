@@ -832,6 +832,11 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.adresse
+{
+    top: 50%;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
