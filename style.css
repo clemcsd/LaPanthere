@@ -837,6 +837,18 @@ h4 {
     top: 50%;
 }
 
+.image-resize-mode
+{
+    width: 20%;
+    height: auto;
+}
+
+img
+{
+    width: 100%;
+    height: auto;
+}
+
 .cta
 {
     color: #FFFFFF!important;
